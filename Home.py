@@ -13,5 +13,5 @@ st.caption(
 st.caption(
     'Go to Inference and make prediction about wine type using different ingredients values')
 st.caption(
-    'On Inference page you can also how model make its decision')
+    'On Inference page you can also see how model make its decision')
 st.write(desc)
